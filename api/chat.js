@@ -34,4 +34,6 @@ router.post('/chat', async (req, res) => {
   }
 });
 
+console.log('Chat route initialized.');
+
 module.exports = router;
