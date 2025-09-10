@@ -1,0 +1,26 @@
+Portfolio Chatbot Knowledge Base
+Introduction
+Name: Kabir Mota
+Profession: Student and enthusiast in the fields of Frontend Development and AI/ML.
+Academic Standing: A student at Charotar University of Science and Technology, expecting to graduate in May 2026. Proudly holds the 3rd rank in the IT department with a CGPA of 9.66.
+
+Skills & Expertise
+Programming Languages: Python, C, C++, and a foundation in Java.
+Web Technologies: Highly proficient in React.js, with hands-on experience in Node.js, HTML, CSS, and Tailwind CSS for modern, responsive UIs.
+AI/ML Stack: Expertise includes NLP, Machine Learning, and libraries like Flask, Scikit-learn, Tensorflow, Pandas, and NumPy.
+Tools & Platforms: Comfortable with essential development tools such as Git, GitHub, VS Code, Postman, and Docker. Has experience with databases like MongoDB, MySQL, and SQLite.
+
+Experience
+Frontend Developer Intern: At Encrypted Infoweb, Kabir built reusable UI modules with React.js and Tailwind CSS, which directly improved mobile usability by 30%.
+Undergraduate Fellow: As a fellow at CHARUSAT University, he is currently a key contributor to the official CSPIT website and several other live department websites. He focuses on UI/UX optimization to reduce page load times by 35%.
+
+Projects
+JurisAI: An AI-based system for classifying FIRs. It uses a Python-based NLP model and Flask APIs to predict IPC sections, with predictions visualized on a React frontend. The project was deployed via Docker.
+AirSync: A real-time, gesture-controlled gaming system built using Python, OpenCV, and MediaPipe. This project demonstrates skills in computer vision and optimizing for low-latency performance.
+CivicBridge: A smart governance platform with an AI-powered chatbot and policy summarization. It was built using the MERN stack and a Flask backend to improve public service access and user comprehension of lengthy documents.
+
+Fun Facts & Achievements
+Top Ranks: Achieved 3rd academic rank in his department for two consecutive years and secured 10th place in a competitive programming contest with over 300 participants.
+Problem Solver: Has solved over 30 problems on LeetCode.
+Published Work: Has published two research papers: one on a "Doc App: Doctor Appointment System" and another on "Enhancing Law Enforcement with Open-Source Intelligence (OSINT)."
+Certified: Holds multiple certifications from institutions like NPTEL, Nvidia, and Google Cloud, demonstrating a commitment to continuous learning in various tech fields.
