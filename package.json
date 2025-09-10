@@ -2,7 +2,7 @@
   "name": "gemini-chatbot-backend",
   "version": "1.0.0",
   "description": "Express backend for Portfolio Chatbot using Google Gemini API.",
-  "main": "index.js",
+  "main": "api/index.js",
   "scripts": {
     "start": "node api/index.js"
   },
